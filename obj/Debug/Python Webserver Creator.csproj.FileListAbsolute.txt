@@ -1,0 +1,10 @@
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\bin\Debug\Python Webserver Creator.exe.config
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\bin\Debug\Python Webserver Creator.exe
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\bin\Debug\Python Webserver Creator.pdb
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\obj\Debug\Python Webserver Creator.csprojAssemblyReference.cache
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\obj\Debug\Python_Webserver_Creator.Form1.resources
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\obj\Debug\Python_Webserver_Creator.Properties.Resources.resources
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\obj\Debug\Python Webserver Creator.csproj.GenerateResource.cache
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\obj\Debug\Python Webserver Creator.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\obj\Debug\Python Webserver Creator.exe
+E:\PROGRAMMING\python_webserver_maker\Python Webserver Creator\obj\Debug\Python Webserver Creator.pdb
